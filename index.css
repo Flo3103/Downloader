@@ -1,0 +1,91 @@
+*{
+    background-color: rgb(128, 128, 128);   
+    margin: 0%;
+}
+
+
+nav{
+    text-align: center;
+}
+
+nav h1{
+    background-image: url(https://bit.ly/3e4zsdC);
+    background-position: top;
+    margin: 0 0 10px 0;
+    padding: 20px;
+    background-color: black;
+    color: rgba(154, 134, 235, 0.856);
+    font-size: 50px;
+}
+
+
+ 
+            /*Allgemeine Attribute*/
+
+
+
+.mainInhalt{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.AppContainer{
+    
+    border-radius: 17px;
+    margin: 10px;
+    text-align: center;
+    background-color: green;
+    padding: 30px 0px 50px 0px;
+    width: 180px;
+    height: 100px;
+}
+
+.AppTitle{
+    background-color: green;
+    font-size: 24px;
+    margin: 0 0 10px 0;
+}
+.Appimage{
+    background-color: green;
+    margin: 0 0 10px 0;
+}
+
+.DownloadForm{
+    background-color: green;
+    padding: 0 0 10px 0;
+    border-radius: 17px;
+}
+
+
+.DownloadButton{
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    background-color: darkgreen;
+    border: black;
+}
+
+.DownloadButton:hover{
+    background-color: rgb(4, 75, 4);    
+}
+
+            /*einzelne Apps*/
+
+/*TicTacToe*/
+
+
+
+.TicTacToeimage{
+    width: 50px;
+}
+
+
+
+/*Reaction*/
+
+.Reactionimage{
+    width: 45px;
+    
+}
