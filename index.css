@@ -44,7 +44,7 @@ nav h1{
     margin: 0 0 10px 0;
 }
 .Appimage{
-    background-color: rgb(94, 94, 94);
+    background-color: ;
     margin: 0 0 10px 0;
 }
 
@@ -93,4 +93,13 @@ nav h1{
 .Reactionimage{
     width: 45px;
     
+}
+
+
+/*Random Maschine*/
+
+
+.RandomMaschinImage{
+    width: 50px;
+
 }
