@@ -199,6 +199,9 @@ nav h1{
     padding: 10px 0px 70px 0px;
 }
 
+.SchereSteinPapierTitle{
+    margin: 0%;
+}
 
 
 
@@ -225,6 +228,34 @@ nav h1{
     flex-wrap: wrap;
     justify-content: center;    
 }
+
+
+/*ZahlenRaten*/
+
+
+
+.ZahlenRatenImage{
+    width: 70px;
+    margin: 5px 0 5px 0;
+}
+
+
+
+.ZahlenRatenTitle{
+    margin: 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
