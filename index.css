@@ -176,16 +176,29 @@ nav h1{
 .RandomMaschinImage{
     
 	width: 45px;
-
-
 	margin: 0px;
 	padding: 0px;
 
+}
+.RandomMaschinDiv{
+    padding: 10px 0px 70px 0px;
 }
 
 .RandomMachineTitle{
 	margin:0px;
 }
+
+/*Schere Stein Papier*/
+
+.ImageSchereSteinPapier{
+    margin: 0%;
+    padding: 0%;
+}
+
+.SchereSteinPapierDiv{
+    padding: 10px 0px 70px 0px;
+}
+
 
 
 
