@@ -176,7 +176,7 @@ nav h1{
 .RandomMaschinImage{
     
 	width: 45px;
-	margin: 0px;
+	margin: 5px;
 	padding: 0px;
 
 }
@@ -191,7 +191,9 @@ nav h1{
 /*Schere Stein Papier*/
 
 .ImageSchereSteinPapier{
-    margin: 0%;
+    width: 50px;
+    margin-top: 10px;
+    margin-bottom: 5px;
     padding: 0%;
 }
 
@@ -202,6 +204,16 @@ nav h1{
 .SchereSteinPapierTitle{
     margin: 0%;
 }
+
+/*SpinTheBottle*/
+
+
+.SpinTheBottleImage{
+    height: 65px;
+}
+
+
+
 
 
 
